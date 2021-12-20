@@ -1,0 +1,44 @@
+/* The things I need are class, id, margin or padding, font, background, width or height, border and anything else */
+/* I believe I will be defining the class for the paragraphs and lists */
+
+body {
+    background-color: rgb(33, 158, 121);
+}
+
+div {
+    background-color: blue;
+    color: white;
+}
+
+.wrapper {
+    margin: 25px
+}
+
+.css-class {
+    background-color: darkgrey;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.css-class h3 {
+    color: pink;
+    font-size: 25px;
+    font-style: bold;
+}
+
+
+#id-number-one {
+    color: red;
+    font-size: 25px;
+    font-family: fantasy;
+}
+
+.control-HandW {
+    width: 300px;
+    height: 100px;
+}
+
+.mytestbox {
+    padding: 15px 25px 15px 25px;
+    border: 5px solid purple
+}
